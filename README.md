@@ -1,5 +1,5 @@
 # IR_Search_Engine
-An information retrieval system for the "Book Crossing Dataset" (Freiburg Information Institute) in an Anaconda python environment using Elasticsearch python API and the Pandas module.
+An Information Retrieval system for the "Book Crossing Dataset" (Freiburg Information Institute) in an Anaconda Python environment using Elasticsearch Python API and the Pandas module.
 
 Version 1: Returns the results of a search query based on Elasticsearch score and user reviews
 
